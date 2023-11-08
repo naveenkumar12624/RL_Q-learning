@@ -1,4 +1,4 @@
-# Q Learning Algorithm
+# EX-07 - Q-Learning Algorithm
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
@@ -73,5 +73,4 @@ def q_learning(env,
 ![image](4.png)
 
 ## RESULT:
-
 Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
